@@ -26,7 +26,7 @@ Each exercise is a function with a description and examples. Replace the `pass` 
 4. Give your instructor access: in your new repository go to **Settings → Collaborators → Add people**. Then type your instructor's GitHub username.
 5. Copy your repository's address: click the green **Code** button → **HTTPS** → copy. It looks like `https://github.com/<your-username>/python-assignment-1-<yourname>.git`.
 
-## Step 2 — Connect Git to your GitHub account (one time only)
+## Step 2 — Connect Git to your GitHub account (SKIP IF YOU HAVE GIT ALREADY)
 
 You already installed Git in setup. Now tell Git who you are. Use the same email as your GitHub account:
 
